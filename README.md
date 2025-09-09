@@ -1,2 +1,2 @@
 # laba-dev
-ilk ödev
+
