@@ -1,1 +1,2 @@
 # laba-dev
+ilk ödev
